@@ -12,10 +12,7 @@
 <br/>
 <!--<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>-->
 
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=98moomin&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=98moomin&layout=compact&langs_count=8" align = "center"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=98moomin&hide=stars&show_icons=true&count_private=true&line_height=24"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=98moomin&layout=compact&langs_count=8">
 <br/>
 
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=98moomin)
