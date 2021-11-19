@@ -19,13 +19,12 @@
 <br/>
 
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=98moomin)
-
 <br/>
 
 ***
 
-#### <div align=center>💪Skills</div>
-##### <div align=center>Techs that I've used at least once</div>
+### <div align=center>💪Skills</div>
+#### <div align=center>Techs that I've used at least once</div>
 <div align=center>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp
@@ -40,7 +39,7 @@
 <br/>
 <br/>
 
-#### <div align=center>😋Me</div>
+### <div align=center>😋Me</div>
 <div align=center>
   <a href="https://www.instagram.com/msnswoe/" target="_blank"><img src="https://img.shields.io/badge/msnswoe-FF3399?style=flat-square&logo=instagram&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/moomin9805@gmail.com-DC5B4E?style=flat-square&logo=Gmail&logoColor=white"/></a>
