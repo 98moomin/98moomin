@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently stidying on [Dong-A.Univ](donga.ac.kr).
-- 🌱 I’m currently learning **AI**, **Web**, **Python**, **Back-End**, **Front-End**.
+- 🔭 I’m currently studying on [Dong-A.Univ](donga.ac.kr).
+- 🌱 I’m currently learning **Python**, **AI**, **Back-End**, **Front-End**.
 - 🤨 I’m Interested in **Python**, **Back-End**, **Front-End**.
 - 😄 Pronouns: I want to do 1-day, 1-commit.
 - ⚡ Fun fact: I think I'm not talented in Computer Science.
@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/JQuery-000000?style=flat-square&logo=Jquery&logoColor=0968AC"/> &nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> &nbsp 
   <img src="https://img.shields.io/badge/Electron-2A2D38?style=flat-square&logo=Electron&logoColor=9CE6F4"/> &nbsp
