@@ -46,4 +46,4 @@
 <br/>
 <br/>
 
-<a align=center>노력하자.</a>
+<p align=center>노력하자</p>
