@@ -3,7 +3,7 @@
 - 🔭 I’m currently studying on [Dong-A.Univ](donga.ac.kr).
 - 🌱 I’m currently learning **Python**, **AI**, **Back-End**, **Front-End**.
 - 🤨 I’m Interested in **Python**, **Back-End**, **Front-End**.
-- 😄 Pronouns: I want to do 1-day, 1-commit.
+- 😄 Pronouns: I want to do my best.
 - ⚡ Fun fact: I think I'm not talented in Computer Science.
 - 😍 I like **Band music**, **CAT**, **Classical music**, **Guitar**.
 - 💬 You can ask me a any questions.
