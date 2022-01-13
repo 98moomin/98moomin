@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying on [Dong-A.Univ](donga.ac.kr).
+- 🔭 I’m currently studying on [Dong-A.Univ](https://donga.ac.kr).
 - 🌱 I’m currently learning **life :)**
 - 🤨 I’m Interested in **Python**, **Back-End**, **Front-End**.
 - 😄 Pronouns: I want to do my best.
