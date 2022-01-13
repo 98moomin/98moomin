@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I think I'm not talented in Computer Science.
 - 😍 I like **Band music**, **CAT**, **Classical music**, **Guitar**.
 - 💬 You can ask me a any questions.
-- 📫 How to reach me: You can contact me by **[E-mail](mailto:moomin9805@gmail.com)**.
+- 📫 How to reach me: You can contact me by **[E-mail](mailto:moomin.dev@icloud.com)**.
 <br/>
 <br/>
 <!--<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>-->
