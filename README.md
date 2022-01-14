@@ -38,7 +38,7 @@
 ### <div align=center>😋Me</div>
 <div align=center>
   <a href="https://www.instagram.com/msnswoe/" target="_blank"><img src="https://img.shields.io/badge/msnswoe-FF3399?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/moomin9805@gmail.com-DC5B4E?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/moomin.dev@icloud.com-DC5B4E?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 <br/>
 <div align=center>
